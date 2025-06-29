@@ -44,7 +44,7 @@ Hi! I’m Jared (“Bropaine” online)—a software engineer, indie game dev, a
 ### 🗂️ Featured Projects
 
 <!-- Replace these with actual repo links! -->
-- [Indie Game Demo](#)
+- [Browser Game Demo](https://github.com/Bropaine/Emoji-Invaders/tree/master)
 - [Procedural Art Experiments](#)
 - [Admin Tools for Shopify Integration](https://github.com/Bropaine/RewindtheFindsAdminTools/tree/main)
 
