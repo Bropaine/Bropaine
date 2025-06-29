@@ -46,7 +46,7 @@ Hi! I’m Jared (“Bropaine” online)—a software engineer, indie game dev, a
 <!-- Replace these with actual repo links! -->
 - [Indie Game Demo](#)
 - [Procedural Art Experiments](#)
-- [Modular Synth Playground](#)
+- [Admin Tools for Shopify Integration](#https://github.com/Bropaine/RewindtheFindsAdminTools/tree/main)
 
 ---
 
