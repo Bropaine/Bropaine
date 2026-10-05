@@ -1,63 +1,53 @@
-# 👋 Hey, I'm Bropaine
+# Jared Hall · Bropaine
 
-**Builder, game dev-in-progress, and AI tinkerer.**
+**Software Engineer | Java Backend Systems, Middleware & AI Integration**
 
----
+I'm Jared, known online as **Bropaine**. I build backend systems, AI integrations, and developer tools. I'm also an independent game developer working in Unity/C#.
 
-### 🛠️ About Me
+I'm interested in remote software engineering opportunities involving Java, backend development, middleware, and AI-enabled systems.
 
-Hi! I’m Jared (“Bropaine” online)—a software engineer, indie game dev, and all-around creator passionate about building things that surprise and delight.
+## Professional background
 
-**Professional highlights:**
-- 🚚 **Java Systems Developer (3+ years):** Developed and maintained scalable backends for the logistics industry, with hands-on experience in Spring, Neo4j, and complex data flows.
-- 🤖 **Lead Generative AI Architect for Customer Service at Draiver:** Designed and built AI-driven voice and chat systems for real-world customer support, automating conversations and integrating advanced LLMs into business workflows.
+**Software Engineer at DRAIVER | July 2022 – February 2025**
 
----
+- Developed Java/Spring Boot microservices, REST APIs, and event-driven backend systems in AWS using Amazon Kinesis.
+- Built Java middleware connecting a Python AI logistics platform to Salesforce, and data flows connecting streamed data, machine-learning models, and frontend-facing APIs.
+- Led unit testing with JUnit and Mockito, raising Java test coverage from near zero to over 60% as the codebase expanded to nearly 50 microservices.
+- Took on AI technical leadership, designing OpenAI integrations, retrieval-augmented generation (RAG), and conversational voice-agent workflows.
+- Collaborated on DTO design and caching, resolved asynchronous race conditions, managed Neo4j trip-matching data, and supported AWS/Jenkins deployments with DevOps.
 
-### 💡 What I’m Into
+## What I'm building now
 
-- 🎮 **Game Development:** Unity (C#), interactive fiction, procedural generation, and AI-powered storytelling.
-- 🌐 **Web Development:** Modern JavaScript, HTML/CSS, Shopify, and responsive site design.
-- 🎨 **Creative Coding:** Generative art, fractal experiments, and modular sound synthesis.
-- 🧩 **Systems Integration:** Automation, cloud backends, and making different technologies play nice together.
+**Independent Software Engineer | February 2025 – Present**
 
----
+My main project, under the working title **Golden Age Comics Roguelike Deckbuilder**, is a single-player, turn-based Unity 6/C# game featuring strategic card combat and Golden Age superheroes. **Black Terror** is the first playable hero.
 
-### 🚀 Currently Exploring
+The engineering work includes:
 
-- Mobile-first game interfaces & UI
-- Backend services with Java, Spring Boot, Firebase
-- Building dynamic narrative engines with OpenAI & generative models
-- Automating e-commerce & inventory workflows
+- **Persistence and recovery:** exact-state combat save/resume, saves after meaningful state mutations, backup recovery, malformed-save validation, and interrupted-write testing.
+- **Automated testing:** 2,000+ NUnit EditMode unit tests across project functionality, supplemented by manual failure testing.
+- **Deterministic asset tooling:** sprite-processing and animation pipelines with fail-fast import validation and repeatable generation.
+- **Cinematic tooling:** a Python/PIL post-production CLI with versioned recipes and manifests, plus the **V2 Cinematic Beat Editor** for story-beat export/import, narration, and review.
+- **Development workflow:** GitHub pull requests, Jira epics, regression checks, and explicit acceptance criteria.
 
----
+The game is in development and its source repository is private. A public engineering presentation is being built to show the systems, tools, and testing behind it.
 
-### 🧑‍💻 Professional Experience
+## How I work
 
-- **Java Systems Developer (Logistics, 3+ years)**
-- **Lead Generative AI Architect @ Draiver**
+I use AI-assisted development alongside hands-on architecture, debugging, automated testing, and code review. I define expected behavior and acceptance criteria, then verify changes against those requirements.
 
-*Detailed work experience available upon request or on my LinkedIn.*
+## Technologies
 
----
+- **Backend and integration:** Java 17+, Spring Boot, REST APIs, Salesforce, OpenAI, RAG
+- **Cloud and data:** AWS, Kinesis, S3, Neo4j
+- **Independent development:** C#, Unity 6, Python/PIL, runtime and editor tooling
+- **Testing and delivery:** JUnit, Mockito, NUnit, Git, GitHub, Jenkins, Maven, Jira
 
-### 🗂️ Featured Projects
+## Beyond the code
 
-- [Browser Game Demo](https://github.com/Bropaine/Emoji-Invaders/tree/master)
-- [Admin Tools for Shopify Integration](https://github.com/Bropaine/RewindtheFindsAdminTools/tree/main)
+I also enjoy music, creative coding, generative art, web development, and building practical automation for e-commerce workflows.
 
----
+## Connect
 
-### 📫 How to Reach Me
-
-- Email: [jradh1987@gmail.com](mailto:jradh1987@gmail.com)  
-- LinkedIn: [linkedin.com/in/jared-hall-171596233](https://www.linkedin.com/in/jared-hall-171596233/)
-
----
-
-> _“Never stop building...”_
-
-<!---
-Bropaine/Bropaine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LinkedIn](https://www.linkedin.com/in/jared-hall-171596233/)
+- [Email](mailto:jradh1987@gmail.com)
