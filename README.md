@@ -24,7 +24,8 @@ I'm interested in remote software engineering opportunities involving Java, back
 **Recognition:** DRAIVER Efficiency Award, presented at the 2024 Annual Planning Conference in Daytona Beach, Florida.
 
 - Developed Java/Spring Boot microservices, REST APIs, and event-driven backend systems in AWS using Amazon Kinesis.
-- Built Java middleware connecting a Python AI logistics platform to Salesforce, and data flows connecting streamed data, machine-learning models, and frontend-facing APIs.
+- Built Java middleware connecting a Python AI logistics platform to Salesforce while supporting migration of Salesforce-based business logic and data flows to custom APIs and microservices.
+- Developed data flows connecting streamed data, machine-learning models, and frontend-facing APIs.
 - Led unit testing with JUnit and Mockito, raising Java test coverage from near zero to over 60% as the codebase expanded to nearly 50 microservices.
 - Took on AI technical leadership, designing OpenAI integrations, retrieval-augmented generation (RAG), and conversational voice-agent workflows.
 - Collaborated on DTO design and caching, resolved asynchronous race conditions, managed Neo4j trip-matching data, and supported AWS/Jenkins deployments with DevOps.
