@@ -30,7 +30,7 @@ I'm interested in remote software engineering opportunities involving Java, back
 
 **Independent Software Engineer | February 2025 – Present**
 
-My main project, under the working title **Golden Age Comics Roguelike Deckbuilder**, is a single-player, turn-based Unity 6/C# game featuring strategic card combat and Golden Age superheroes. **Black Terror** is the first playable hero.
+My main project, under the working title **Golden Age Comics Roguelike Deckbuilder**, is a single-player, turn-based Unity 6/C# game featuring strategic card combat and Golden Age superheroes. **The Dread** is the first playable hero.
 
 The engineering work includes:
 
