@@ -6,6 +6,16 @@ I'm Jared, known online as **Bropaine**. I build backend systems, AI integration
 
 I'm interested in remote software engineering opportunities involving Java, backend development, middleware, and AI-enabled systems.
 
+## Linked showcases
+
+| Project | Engineering focus |
+| --- | --- |
+| **[Golden Age Deckbuilder — Engineering Showcase](https://github.com/Bropaine/GoldenAgeDeckbuilder-Engineering-Showcase)** | Unity/C# gameplay architecture, exact-state persistence, card identity, automated verification, and production animation tooling |
+| [Vehicle Inventory Management](https://github.com/Bropaine/VehicleInventoryManagement) | Java 17, Spring Boot, REST endpoints, Spring Data JPA, and H2 |
+| [Vehicle Image Recognition](https://github.com/Bropaine/VehicleImageRecognition) | Python/FastAPI, multimodal AI integration, batch image uploads, and structured classification output |
+| [Unified Shopify Product Generator](https://github.com/Bropaine/UnifiedShopifyProductGenerator) | Python desktop tooling, Shopify API integration, AI descriptions, CSV/JavaScript exports, and SFTP |
+| [Rewind the Finds Admin Tools](https://github.com/Bropaine/RewindtheFindsAdminTools) **(private; authorized access required)** | Modular inventory tooling, AI-assisted intake, review/edit workflows, session persistence, and catalog operations |
+
 ## Professional background
 
 **Software Engineer at DRAIVER | July 2022 – February 2025**
@@ -30,7 +40,7 @@ The engineering work includes:
 - **Cinematic tooling:** a Python/PIL post-production CLI with versioned recipes and manifests, plus the **V2 Cinematic Beat Editor** for story-beat export/import, narration, and review.
 - **Development workflow:** GitHub pull requests, Jira epics, regression checks, and explicit acceptance criteria.
 
-The game is in development and its source repository is private. A public engineering presentation is being built to show the systems, tools, and testing behind it.
+The game is in development and its source repository is private. Explore the [public engineering showcase](https://github.com/Bropaine/GoldenAgeDeckbuilder-Engineering-Showcase) for architecture case studies, persistence and tooling design, verification records, and selected production-code excerpts.
 
 ## How I work
 
