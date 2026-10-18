@@ -46,6 +46,8 @@ The engineering work includes:
 
 The game is in development and its source repository is private. Explore the [public engineering showcase](https://github.com/Bropaine/GoldenAgeDeckbuilder-Engineering-Showcase) for architecture case studies, persistence and tooling design, verification records, and selected production-code excerpts.
 
+**Dev blog:** [Pulled Issues](https://bropaine.github.io/dev-blog/) — a Golden Age comics roguelike deckbuilder, built solo with a small governed team of AI agents. Production notes, process, and hard lessons, written as it happens.
+
 My independent work also includes storefront and Shopify integration, Python product-data tooling, batch catalog updates, UI-driven availability/configuration changes, and AI-assisted product intake and market-data presentation. The [Rewind the Finds storefront archive](https://bropaine.github.io/RewindTheFinds-Storefront-Showcase/) preserves the browsing and cart experience, with [source excerpts and an engineering case study](https://github.com/Bropaine/RewindTheFinds-Storefront-Showcase).
 
 ## How I work
