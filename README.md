@@ -12,6 +12,8 @@ I'm interested in remote software engineering opportunities involving Java, back
 | --- | --- |
 | **[Golden Age Deckbuilder — Engineering Showcase](https://github.com/Bropaine/GoldenAgeDeckbuilder-Engineering-Showcase)** | Unity/C# gameplay architecture, exact-state persistence, card identity, automated verification, and production animation tooling |
 | [Rewind the Finds — Storefront Showcase](https://github.com/Bropaine/RewindTheFinds-Storefront-Showcase) · [Live demo](https://bropaine.github.io/RewindTheFinds-Storefront-Showcase/) | HTML5/CSS/JavaScript storefront, searchable catalog, persistent shopping cart, and a case study of Python/Shopify admin integrations |
+| [Nemotron Agent](https://github.com/Bropaine/nemotron-agent) | Python local AI agent built on Ollama-hosted NVIDIA Nemotron: markdown-defined skill system with dynamic selection, web search and page-reading tools, and a StumbleUpon-style discovery app (Flask card UI, like/dislike ratings, bounded recommendations) |
+
 | [Vehicle Inventory Management](https://github.com/Bropaine/VehicleInventoryManagement) | Java 17, Spring Boot, REST endpoints, Spring Data JPA, and H2 |
 | [Local Nemotron Inventory Agent](https://github.com/Bropaine/nemotron-inventory-agent) | Toy/demo: local NVIDIA Nemotron via Ollama, a Python tool-calling harness, read-only sample inventory and reorder recommendations, documented test prompts, and 16 unit/mock tests |
 | [Vehicle Image Recognition](https://github.com/Bropaine/VehicleImageRecognition) | Python/FastAPI, multimodal AI integration, batch image uploads, and structured classification output |
